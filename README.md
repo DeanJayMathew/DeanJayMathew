@@ -6,7 +6,16 @@ My current focus is cybersecurity and post-quantum cryptography (PQC), with a st
 
 Check out my Post-Quantum Security Research blog: [https://lordllandaff.com](https://lordllandaff.com)
 
-Founder of ABC Online Courses UK Limited, delivering innovative SaaS solutions at scale to the world's largest intergovernmental organisations since 2017.  
+Founder of ABC Online Courses UK Limited, delivering innovative SaaS solutions at scale to the world's largest intergovernmental organisations since 2017.
+www.abconlinecourses.com
+
+Selected Projects:
+
+- UNESCO Open Learning website: www.openlearning.unesco.org.
+- Singapore National Quantum Computing Hub (NQCH) Quantum Talent website: www.qutalent.org.
+- IndonesiaX - a scalable national online education platform for 200,000+ users in the Republic of Indonesia.
+- [Open edX + ChatGPT Integration](https://github.com/YourOrg/OpenEdX-ChatGPT) – conversational AI for online learning (organisation project).  
+- [FIPS Compliant Certificate Checker](https://github.com/DeanJayMathew/fips_compliant_cert_checker_app) – custom tool for TLS compliance and PQC readiness.  
 
 ---
 
@@ -29,14 +38,9 @@ Web servers & networking:
 Nginx, Apache, hybrid TLS setup, SSL certificate management, HTTP/2 and HTTP/3 configurations.  
 
 Development & automation:  
-C programming language, Python, Bash scripting, Git, CI/CD pipelines, Docker-based testing environments.  
+C Programming Language/Memory Management, Python, Bash scripting, Git, CI/CD pipelines, Docker-based testing environments.  
 
 Productivity & Multimedia:  
 Adobe Premiere Pro (video editing).  
 
----
-
-Selected Projects
-
-- [Open edX + ChatGPT Integration](https://github.com/YourOrg/OpenEdX-ChatGPT) – conversational AI for online learning (organisation project).  
-- [FIPS Compliant Certificate Checker](https://github.com/DeanJayMathew/fips_compliant_cert_checker_app) – custom tool for TLS compliance and PQC readiness.  
+---  

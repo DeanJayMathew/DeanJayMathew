@@ -16,7 +16,7 @@ Compliance & standards knowledge:
 FIPS 203/204/205, FIPS 140-3 validation pipeline, PQC standards alignment, hybrid classical/post-quantum cryptography deployment, UK NCSC/ENISA awareness, ISO/IEC PQC standard preparation.  
 
 Security tools & penetration testing:  
-Custom security tools to support and enrich research, including the [FIPS Compliant Certificate Checker & Recommender](https://hub.docker.com/r/deansmachines/fips_cert_checker_app).  
+Open Quantum Safe (OQS), Custom security tools to support and enrich research, including the [FIPS Compliant Certificate Checker & Recommender](https://hub.docker.com/r/deansmachines/fips_cert_checker_app).  
 Kali Linux, Wireshark, BurpSuite, Nmap, OpenSSL (classical + OQS/PQC), Open Quantum Safe provider, hybrid TLS implementation, TLS certificate analysis, vulnerability scanning, traffic interception, and post-quantum cryptography libraries.  
 
 Operating systems & server management:  
@@ -29,7 +29,7 @@ Web servers & networking:
 Nginx, Apache, hybrid TLS setup, SSL certificate management, HTTP/2 and HTTP/3 configurations.  
 
 Development & automation:  
-Python, Bash scripting, Git, CI/CD pipelines, Docker-based testing environments.  
+C programming language, Python, Bash scripting, Git, CI/CD pipelines, Docker-based testing environments.  
 
 Productivity & Multimedia:  
 Adobe Premiere Pro (video editing).  
